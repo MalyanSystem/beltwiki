@@ -22,7 +22,7 @@ support!
 ## Installation Instruction
 
 [MA21 Installation Instruction](https://malyansystem.github.io/beltwiki/install-ma21.pdf): 
-<embed src="https://malyansystem.github.io/beltwiki/install-ma21.pdf" width="800" height="1000" type="application/pdf" />
+<embed src="https://malyansystem.github.io/beltwiki/install-ma21.pdf" width="800" height="400" type="application/pdf" />
 
 
 ## User Manual
