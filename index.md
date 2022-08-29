@@ -22,13 +22,13 @@ support!
 ## Installation Instruction
 
 [MA21 Installation Instruction](https://malyansystem.github.io/beltwiki/install-ma21.pdf): 
-<embed src="https://malyansystem.github.io/beltwiki/install-ma21.pdf#toolbar=0&navpanes=0" width="800" height="400" type="application/pdf" />
+<embed src="https://malyansystem.github.io/beltwiki/install-ma21.pdf#toolbar=0&navpanes=0" width="800" height="560" type="application/pdf" />
 
 
 ## User Manual
 
 [MA21 User Manual](https://malyansystem.github.io/beltwiki/manual-ma21.pdf): 
-<embed src="https://malyansystem.github.io/beltwiki/manual-ma21.pdf#toolbar=0&navpanes=0" width="800" height="1000" type="application/pdf" />
+<embed src="https://malyansystem.github.io/beltwiki/manual-ma21.pdf#toolbar=1&navpanes=0" width="800" height="800" type="application/pdf" />
 
 
 ## SDCard file
