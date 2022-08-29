@@ -7,7 +7,7 @@ imagination into reality!
 
  Please find software and user manual in the memory
 card come with our product, or you can download them
-from our wiki: ma10mini.mly.at. It is imperative that you
+from this wiki. It is imperative that you
 read the operating instructions carefully before operating
 Malyan 3D Printer.
 
