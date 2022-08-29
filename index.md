@@ -33,4 +33,4 @@ support!
 
 ## SDCard file
 
-You can download sdcard content from google drive link for [MA21](https://).
+You can download sdcard content from google drive link for [MA21](https://drive.google.com/file/d/15IfQ0M8NjdaZk3vqWLoW4mX7K6FlmysM/view?usp=sharing).
