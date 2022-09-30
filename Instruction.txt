@@ -1,0 +1,19 @@
+Instruction for update firmware
+
+1.	Copy UPDATE.BIN & LCD.BIN files to microSD card. 
+
+2.	In select print file menu, choose UPDATE.BIN will start to update firmware for motion controller. Machine will reboot after successfully updated. Don't power off machine during updating. 
+
+3.	Update UI controller: 
+
+3.1	Power off machine and move X and Y axis by hand to trigger end stopper. 
+
+3.2	Pressed the rotary button and power on printer, don't release rotary button. 
+
+3.3	Until two fan start to spin, indicate firmware have started to update, release rotary button. 
+
+3.4	It will take approximate 4 minutes to finish. LCD panel will reboot and show new version string. 
+
+3.5	Please don't forget to delete update file to avoid enter firmware update again. 
+
+4.	Choose M502.gcode in print file menu to clear EEPROM in printer. 
