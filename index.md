@@ -32,6 +32,7 @@ support!
 
 ## Installation Video
 <embed src="https://youtu.be/MXVKs4bbYU8" width="800" />
+[Youtube Link](https://youtu.be/MXVKs4bbYU8)
 
 ## SDCard file
 
