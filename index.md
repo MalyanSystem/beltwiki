@@ -30,6 +30,8 @@ support!
 [MA21 User Manual](https://malyansystem.github.io/beltwiki/manual-ma21.pdf): 
 <embed src="https://malyansystem.github.io/beltwiki/manual-ma21.pdf#toolbar=1&navpanes=0" width="800" height="800" type="application/pdf" />
 
+## Installation Video
+<embed src="https://youtu.be/MXVKs4bbYU8" width="800" />
 
 ## SDCard file
 
