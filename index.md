@@ -22,11 +22,19 @@ support!
 
 ## Installation Instruction
 
+[MA20 Installation Instruction](https://malyansystem.github.io/beltwiki/install-ma20.pdf): 
+<embed src="https://malyansystem.github.io/beltwiki/install-ma20.pdf#toolbar=0&navpanes=0" width="800" height="560" type="application/pdf" />
+<br>
+
 [MA21 Installation Instruction](https://malyansystem.github.io/beltwiki/install-ma21.pdf): 
 <embed src="https://malyansystem.github.io/beltwiki/install-ma21.pdf#toolbar=0&navpanes=0" width="800" height="560" type="application/pdf" />
 <br>
 
 ## User Manual
+
+[MA20 User Manual](https://malyansystem.github.io/beltwiki/manual-ma20.pdf): 
+<embed src="https://malyansystem.github.io/beltwiki/manual-ma20.pdf#toolbar=1&navpanes=0" width="800" height="800" type="application/pdf" />
+<br>
 
 [MA21 User Manual](https://malyansystem.github.io/beltwiki/manual-ma21.pdf): 
 <embed src="https://malyansystem.github.io/beltwiki/manual-ma21.pdf#toolbar=1&navpanes=0" width="800" height="800" type="application/pdf" />
