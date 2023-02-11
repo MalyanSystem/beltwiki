@@ -47,17 +47,10 @@ support!
 
 ## SDCard file
 
-You can download sdcard content from google drive link for [MA21](https://drive.google.com/file/d/15IfQ0M8NjdaZk3vqWLoW4mX7K6FlmysM/view?usp=sharing).
-<br> and [MA20](https://drive.google.com/file/d/1Qx9RW9jHeNj5DZ9rDJ7dUP1Kmx_iQ_P0/view?usp=sharing)
+You can download sdcard content from google drive link for [MA21](https://drive.google.com/file/d/15IfQ0M8NjdaZk3vqWLoW4mX7K6FlmysM/view?usp=sharing)
+ and [MA20](https://drive.google.com/file/d/1Qx9RW9jHeNj5DZ9rDJ7dUP1Kmx_iQ_P0/view?usp=sharing). <br>
 
 ## Firmware update instructions
-
-### MA21: [Firmware link](https://malyansystem.github.io/beltwiki/MA21V256-FRS-update.bin)
-
-> 1. Download the firmware from above link.
-> 2. Rename file name to "update.bin" and copy to FAT32 formatted CLEAN micro SDCard.
-> 3. Select "update.bin" file to print. And wait few minutes for update.
-> 4. New version string will show up in LCD screen after successful update.
 
 ### MA20: [Firmware link](https://malyansystem.github.io/beltwiki/Firmware(V245-215).rar)
 
@@ -71,3 +64,12 @@ You can download sdcard content from google drive link for [MA21](https://drive.
 >    4.	It will take approximate 4 minutes to finish. LCD panel will reboot and show new version string. 
 >    5.	Please don’t forget to delete update file to avoid enter firmware update again. 
 >4.	Choose M502.gcode in print file menu to clear EEPROM in printer. 
+
+### MA21: [Firmware link](https://malyansystem.github.io/beltwiki/MA21V256-FRS-update.bin)
+
+> 1. Download the firmware from above link.
+> 2. Rename file name to "update.bin" and copy to FAT32 formatted CLEAN micro SDCard.
+> 3. Select "update.bin" file to print. And wait few minutes for update.
+> 4. New version string will show up in LCD screen after successful update.
+
+
