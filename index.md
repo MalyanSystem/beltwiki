@@ -65,7 +65,7 @@ You can download sdcard content from google drive link for [MA21](https://drive.
 >    5.	Please don’t forget to delete update file to avoid enter firmware update again. 
 >4.	Choose M502.gcode in print file menu to clear EEPROM in printer. 
 
-### MA21: [Firmware link](https://malyansystem.github.io/beltwiki/MA21V256-FRS-update.bin)
+### MA21: [Firmware link](https://malyansystem.github.io/beltwiki/ma21update.bin)
 
 > 1. Download the firmware from above link.
 > 2. Rename file name to "update.bin" and copy to FAT32 formatted CLEAN micro SDCard.
