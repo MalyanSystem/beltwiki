@@ -50,6 +50,15 @@ support!
 You can download sdcard content from google drive link for [MA21](https://drive.google.com/file/d/15IfQ0M8NjdaZk3vqWLoW4mX7K6FlmysM/view?usp=sharing)
  and [MA20](https://drive.google.com/file/d/1Qx9RW9jHeNj5DZ9rDJ7dUP1Kmx_iQ_P0/view?usp=sharing). <br>
 
+## WiFi Configuration (MA20 & MA22)
+Note: Prior to activating WiFi on your device, please be aware that the MA20 & MA22 solely support 2.4GHz WiFi rather than 5GHz. If your router combines these two frequency bands, kindly ensure to distinguish them properly to allow the device to detect your WiFi network. Additionally, avoid using the same SSID for both your 2.4GHz and 5GHz WiFi networks.
+
+1. Create a new text file and input the following: 
+![](./img23052201.png)
+
+2. Insert the SD card into the printer and execute the "wifi.gcode" file. After that, restart the machine and wait for the IP address to appear on the screen.
+![](./img23052202.png)
+
 ## Firmware update instructions
 
 ### MA20: [Firmware link](https://malyansystem.github.io/beltwiki/Firmware(V245-215).rar)
