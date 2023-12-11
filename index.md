@@ -47,8 +47,9 @@ support!
 
 ## SDCard file
 
-You can download sdcard content from google drive link for [MA21](https://drive.google.com/file/d/15IfQ0M8NjdaZk3vqWLoW4mX7K6FlmysM/view?usp=sharing)
- and [MA20](https://drive.google.com/file/d/1Qx9RW9jHeNj5DZ9rDJ7dUP1Kmx_iQ_P0/view?usp=sharing). <br>
+You can download sdcard content ~~from google drive link for [MA21](https://drive.google.com/file/d/15IfQ0M8NjdaZk3vqWLoW4mX7K6FlmysM/view?usp=sharing)
+ and [MA20](https://drive.google.com/file/d/1Qx9RW9jHeNj5DZ9rDJ7dUP1Kmx_iQ_P0/view?usp=sharing). ~~<br>
+Google drive link is broken, please check onedrive link: [MA21](https://1drv.ms/u/s!AlGInf7rhmaOm51k8upJ8VwFSiTT2A) and [MA20](https://1drv.ms/u/s!AlGInf7rhmaOm51lXzZbj4oQ6abyrw)
 
 ## WiFi Configuration (MA20 & MA22)
 Note: Prior to activating WiFi on your device, please be aware that the MA20 & MA22 solely support 2.4GHz WiFi rather than 5GHz. If your router combines these two frequency bands, kindly ensure to distinguish them properly to allow the device to detect your WiFi network. Additionally, avoid using the same SSID for both your 2.4GHz and 5GHz WiFi networks.
